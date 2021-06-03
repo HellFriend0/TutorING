@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937368675343",
+    "firebase_url": "https://bakalarka-63d7b.firebaseio.com",
+    "project_id": "bakalarka-63d7b",
+    "storage_bucket": "bakalarka-63d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937368675343:android:2165070835db0053872f7a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937368675343-ff4up1mu4nat7qmo893cm6svghom0d8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f1eafe09a0855a3c630488d5379a0b052e103dad"
+          }
+        },
+        {
+          "client_id": "937368675343-hru63tsg0g3bir52rjpcfriubmq9vg2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFmnjIXr8PAEuWwTnuD-yKxxT8zrO1tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937368675343-hru63tsg0g3bir52rjpcfriubmq9vg2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

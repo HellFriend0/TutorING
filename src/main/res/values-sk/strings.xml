@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUTORING</string>
+
+    <string name="list_of_students">Zoznam študentov</string>
+    <string name="student_profile">Študentov profil</string>
+    <string name="zvolenie_emailu">Vyber si emailového klienta</string>
+    <string name="edit_profile">Zmena profilu</string>
+    <string name="login">Prihlásenie</string>
+    <string name="Email">Email</string>
+    <string name="Heslo">Heslo</string>
+    <string name="Prihlásenie">Prihlásenie</string>
+    <string name="register">Nemáš účet? Vytvor jeden tu</string>
+    <string name="Jazyk">Jazyk</string>
+    <string name="create">Vytvor účet</string>
+    <string name="Meno">Meno</string>
+    <string name="Registrácia">Registrácia</string>
+    <string name="haveacc">Už máš účet? Prihlás sa</string>
+    <string name="app">APP</string>
+    <string name="forgot">Zabudnuté heslo?</string>
+    <string name="upload_message">Nahrať Správu</string>
+    <string name="upload_comment">Nahrať Komentár</string>
+    <string name="save">Uložiť</string>
+    <string name="likes">Páči sa</string>
+    <string name="userfullname">Meno Užívateľa</string>
+    <string name="userfaculty">Fakulta Užívateľa</string>
+    <string name="send_email">Poslať Email</string>
+    <!--<string name="userfullname">UserFullName</string>
+    <string name="userfaculty">UserFaculty</string>-->
+    <string name="commentfullname">Meno Komentujúceho</string>
+    <string name="commenttext">Text Komentáru</string>
+    <string name="search">Vyhľadávanie</string>
+    <string name="search_for_students">Vyhľadaj študentov</string>
+    <string name="your_profile">Tvoj Profil</string>
+    <string name="your_name">Tvoje Meno</string>
+    <string name="your_email_address">Tvoja Emailová Adresa</string>
+    <string name="logout">Odhlásiť</string>
+    <string name="email_is_not_verify">Email nie je overený</string>
+    <string name="reset_password">Reset Hesla</string>
+    <string name="change_profile">Upraviť Profil</string>
+    <string name="verify">Overiť</string>
+    <string name="your_faculty">Tvoja Fakulta</string>
+    <string name="add_message">Pridaj Správu</string>
+    <string name="header_layout">Menu</string>
+    <string name="meno">Meno</string>
+    <string name="fakulta">Fakulta</string>
+    <string name="profil">Profil</string>
+    <string name="zoznam">Zoznam</string>
+    <string name="time">Čas</string>
+    <string name="text_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vy">Text správy</string>
+    <string name="title_activity_main">title_activity_main</string>
+    <string name="title_home">Domov</string>
+    <string name="title_dashboard">Vyhľadávanie</string>
+    <string name="title_notifications">Profil</string>
+</resources>

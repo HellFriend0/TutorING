@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fakulty">
+        <item>Choose faculty/Vyber si fakultu</item>
+        <item>STU SvF Stavebná fakulta</item>
+        <item>STU SjF Strojnícka fakulta</item>
+        <item>STU FEI Fakulta elektrotechniky a informatiky</item>
+        <item>STU FCHPT Fakulta chemickej a potravinárskej technológie</item>
+        <item>STU FAD Fakulta architektúry a dizajnu</item>
+        <item>STU MTF Materiálovotechnologická fakulta so sídlom v Trnave</item>
+        <item>STU FIIT Fakulta informatiky a informačných technológií</item>
+        <item>UK LF Lekárska fakulta</item>
+        <item>UK PraF Právnická fakulta</item>
+        <item>UK FiF Filozofická fakulta</item>
+        <item>UK PnF Prírodovedecká fakulta</item>
+        <item>UK PdF Pedagogická fakulta</item>
+        <item>UK FaF Farmaceutická fakulta</item>
+        <item>UK FTVŠ Fakulta telesnej výchovy a športu</item>
+        <item>UK JLF Jesseniova lekárska fakulta</item>
+        <item>UK FMFI Fakulta matematiky, fyziky a informatiky</item>
+        <item>UK RKCMBF Rímskokatolícka cyrilometodská bohoslavecká fakulta</item>
+        <item>UK EBF Evanjelická bohoslavecká fakulta</item>
+        <item>UK FM Fakulta manažmentu</item>
+        <item>UK FSEV Fakulta sociálnych a ekonomických vied</item>
+    </string-array>
+</resources>

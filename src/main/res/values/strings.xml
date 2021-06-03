@@ -1,0 +1,57 @@
+<!--treba zapisat vsetky stringy v aplikacii v subore  strings.xml-->
+<resources>
+    <string name="app_name">TUTORING</string>
+
+    <string name="list_of_students">List of Students</string>
+    <string name="student_profile">Student Profil</string>
+    <string name="zvolenie_emailu">Choose an email client</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="login">Log in</string>
+    <string name="Email">Email</string>
+    <string name="Heslo">Password</string>
+    <string name="Prihlásenie">Log in</string>
+    <string name="register">Don\'t have account? Create one here</string>
+    <string name="Jazyk">Language</string>
+    <string name="create">Create account</string>
+    <string name="Meno">Name</string>
+    <string name="Registrácia">Register</string>
+    <string name="haveacc">Have account already? Log in here</string>
+    <string name="app">APP</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="upload_message">Upload Message</string>
+    <string name="upload_comment">Upload Comment</string>
+    <string name="save">Save</string>
+    <string name="likes">Likes</string>
+    <string name="userfullname">User Name</string>
+    <string name="userfaculty">User Faculty</string>
+    <string name="send_email">Send Email</string>
+    <!--<string name="userfullname">UserFullName</string>
+    <string name="userfaculty">UserFaculty</string>-->
+    <string name="commentfullname">Commenters name</string>
+    <string name="commenttext">Comment Text</string>
+    <string name="search">Search</string>
+    <string name="search_for_students">Search For Students</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="logout">Logout</string>
+    <string name="email_is_not_verify">Email is not verify</string>
+    <string name="reset_password">Reset password</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="verify">Verify</string>
+    <string name="your_faculty">Your Faculty</string>
+    <string name="add_message">Add Message</string>
+    <string name="header_layout">Menu</string>
+    <string name="meno">Name</string>
+    <string name="fakulta">Faculty</string>
+    <string name="profil">Profil</string>
+    <string name="zoznam">List</string>
+    <string name="time">Time</string>
+    <string name="text_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vytext_spr_vy">Message Text</string>
+    <string name="title_activity_main">title_activity_main</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Profile</string>
+
+
+</resources>

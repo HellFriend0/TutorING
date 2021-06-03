@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategorie">
+        <item>All category/Všetky kategórie</item>
+        <item>Anatomy/Anatómia</item>
+        <item>Archeology and paleontology/Archeológia and paleontológia</item>
+        <item>Architecture/Architektúra</item>
+        <item>Automation/Automatizácia</item>
+        <item>Biology and Microbiology/Biológia a mikrobiológia</item>
+        <item>Biophysics and physics/Biofyzika a fyzika</item>
+        <item>Botanics/Botanika</item>
+        <item>Cartography and geodesy/Kartografia a Geodézia</item>
+        <item>Computing/Výpočtová technika</item>
+        <item>Controlling systems/Riadiace systémy</item>
+        <item>Chemistry and Biochemistry/Chémia a biochémia</item>
+        <item>Databases/Databázy</item>
+        <item>Design/Dizajn</item>
+        <item>Designing/Projektovanie</item>
+        <item>Ecology/Ekológia</item>
+        <item>Economics and Management/Ekonomika a Manažment</item>
+        <item>Economy/Hospodárstvo</item>
+        <item>Electrical engineering/Elektrotechnika</item>
+        <item>Electronics/Elektronika</item>
+        <item>Energy and Energetics/Energie a Energetika</item>
+        <item>Engineering/Strojníctvo</item>
+        <item>Environment and nature/Životné prostedie a príroda</item>
+        <item>Food production/Potravinová výroba</item>
+        <item>Genetics/Genetika</item>
+        <item>Geology/Geológia</item>
+        <item>History/Dejiny</item>
+        <item>Humanities/Humanitné predmety</item>
+        <item>Industrial production/Priemyselná výroba</item>
+        <item>Informatics/Informatiky</item>
+        <item>Languages/Jazyky</item>
+        <item>Law/Právo</item>
+        <item>Logistics/Logistika</item>ň
+        <item>Machinery and equipment/Stroje a zariadenia</item>
+        <item>Mathematics/Matematika</item>
+        <item>Material recycling/Recyklácie materiálov</item>
+        <item>Materials and technologies/Materiály a technológie</item>
+        <item>Mechanics/Mechanika</item>
+        <item>Mechatronics/Mechatronika</item>
+        <item>Medical sciences(epidemiology, patology, surgery,…)/Medicínske vedy(epidemiológia, patológia, chirurgia…)</item>
+        <item>Modeling/Modelovanie</item>
+        <item>Pedagogy/Pedagogika</item>
+        <item>Pharmaceutics and pharmaceutical devices/Farmaceutika a farmaceutické pomôcky</item>
+        <item>Philosophy and psychology/Filozofia a psychológia</item>
+        <item>Programming/Programovanie</item>
+        <item>Robotics/Robotika</item>
+        <item>Science/Veda</item>
+        <item>Security/Bezpečnosť</item>
+        <item>Services/Služby</item>
+        <item>Simulation/Simulácie</item>
+        <item>Sport/Šport</item>
+        <item>Statistics/Štatistika</item>
+        <item>Structures and constructions/Konštrukcie a stavby</item>
+        <item>Technology/Technológie</item>
+        <item>Telecommunications and communications/Telekomunikácie a komunikácie</item>
+        <item>Theology/Teológia</item>
+        <item>Welding, casting and other processing/Zváranie, zlievanie a iné spracovanie</item>
+        <item>Zoology/Zoológia</item>
+        <item>Others… / Iné…</item>
+    </string-array>
+</resources>
